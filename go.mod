@@ -33,3 +33,4 @@ require (
 )
 
 // Personal fork of chenhg5/cc-connect - using for learning websocket connection management
+// TODO: explore replacing gorilla/websocket with nhooyr.io/websocket for context-based cancellation
